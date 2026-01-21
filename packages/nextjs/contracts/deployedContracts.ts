@@ -219,7 +219,7 @@ const deployedContracts = {
   },
   11155111: {
     CrowdFund: {
-      address: "0x1b6c5BD4C52A1B92d39b60f096AD18b974Ea51C5",
+      address: "0x1186a75eB4Da5089D7CB5360f6F26E04Da3CdE51",
       abi: [
         {
           inputs: [
@@ -404,7 +404,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 10089505,
+      deployedOnBlock: 10089564,
     },
     FundingRecipient: {
       address: "0x24e8f10E6Aeb3Eb89da6D7FeDE73E9195Bc379c0",

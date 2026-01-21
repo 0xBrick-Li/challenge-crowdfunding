@@ -22,7 +22,7 @@ contract CrowdFund {
     mapping(address => uint256) public balances;
     bool public openToWithdraw; // Solidity variables default to an empty/false state
     uint256 public constant thresheld = 1 ether;
-    uint256 public deadline = block.timestamp + 30 ;
+    uint256 public deadline = block.timestamp + 2 hours ;
 
     FundingRecipient public fundingRecipient;
 
